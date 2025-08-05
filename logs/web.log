@@ -1,0 +1,886 @@
+------ Sun Jul 27 12:17:16 PM GMT 2025 ------
+Uptime:
+ 12:17:16 up 10 days, 23:23,  1 user,  load average: 0.41, 0.31, 0.18
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3644         812         843        4511        4166
+Swap:           4095         313        3782
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 93.6 id,  2.1 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Sun Jul 27 12:24:56 PM GMT 2025 ------
+Uptime:
+ 12:24:56 up 10 days, 23:31,  1 user,  load average: 0.29, 0.24, 0.18
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3649         791         822        4506        4162
+Swap:           4095         312        3783
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Jul 29 04:47:35 AM GMT 2025 ------
+Uptime:
+ 04:47:35 up 12 days, 15:53,  1 user,  load average: 0.41, 0.50, 0.53
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4578         452        1201        4469        3233
+Swap:           4095         344        3751
+CPU Usage:
+%Cpu(s): 22.2 us,  2.2 sy,  0.0 ni, 75.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:03:38 AM GMT 2025 ------
+ 07:03:39 up 4 days, 17:25,  1 user,  load average: 0.21, 0.32, 0.45
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4344        1893        1017        2886        3466
+Swap:           4095          64        4031
+%Cpu(s):  0.0 us,  2.2 sy,  0.0 ni, 97.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+------ Mon Aug  4 05:05:01 PM GMT 2025 ------
+Uptime:
+ 17:05:01 up 5 days,  3:26,  1 user,  load average: 0.71, 0.57, 0.48
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4038         948         928        4059        3773
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s): 33.3 us, 16.7 sy,  0.0 ni, 50.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:10:01 PM GMT 2025 ------
+Uptime:
+ 17:10:01 up 5 days,  3:31,  1 user,  load average: 0.74, 0.58, 0.49
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3855        1132         910        4040        3956
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  6.7 us,  2.2 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:15:01 PM GMT 2025 ------
+Uptime:
+ 17:15:01 up 5 days,  3:36,  1 user,  load average: 0.21, 0.42, 0.44
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3898        1088         946        4076        3913
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:20:01 PM GMT 2025 ------
+Uptime:
+ 17:20:01 up 5 days,  3:41,  1 user,  load average: 0.96, 0.60, 0.49
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3832        1152         837        3968        3979
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.3 us,  0.0 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:25:01 PM GMT 2025 ------
+Uptime:
+ 17:25:01 up 5 days,  3:46,  1 user,  load average: 0.13, 0.36, 0.42
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3779        1203         862        3996        4031
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  6.8 us,  2.3 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:30:02 PM GMT 2025 ------
+Uptime:
+ 17:30:02 up 5 days,  3:51,  1 user,  load average: 0.49, 0.44, 0.42
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3839        1144         924        4058        3972
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  4.5 us,  2.3 sy,  0.0 ni, 93.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:35:01 PM GMT 2025 ------
+Uptime:
+ 17:35:01 up 5 days,  3:56,  1 user,  load average: 0.76, 0.46, 0.41
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4041         921        1016        4170        3770
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s): 17.4 us,  8.7 sy,  0.0 ni, 73.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:40:01 PM GMT 2025 ------
+Uptime:
+ 17:40:01 up 5 days,  4:01,  1 user,  load average: 0.12, 0.33, 0.38
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4002         918         925        4122        3809
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:45:01 PM GMT 2025 ------
+Uptime:
+ 17:45:01 up 5 days,  4:06,  1 user,  load average: 0.65, 0.40, 0.38
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3942         975         934        4133        3868
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  6.5 us,  4.3 sy,  0.0 ni, 89.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:50:01 PM GMT 2025 ------
+Uptime:
+ 17:50:01 up 5 days,  4:11,  1 user,  load average: 0.98, 0.79, 0.56
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4041         873         960        4163        3769
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.3 us,  0.0 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 05:55:01 PM GMT 2025 ------
+Uptime:
+ 17:55:01 up 5 days,  4:16,  1 user,  load average: 0.35, 0.50, 0.50
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4002         910         920        4123        3808
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:00:01 PM GMT 2025 ------
+Uptime:
+ 18:00:01 up 5 days,  4:21,  1 user,  load average: 0.53, 0.46, 0.47
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3885        1026         928        4132        3925
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  6.7 us,  4.4 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:05:01 PM GMT 2025 ------
+Uptime:
+ 18:05:01 up 5 days,  4:26,  1 user,  load average: 1.30, 0.93, 0.65
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3894        1010         897        4109        3916
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  7.1 us,  2.4 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:10:01 PM GMT 2025 ------
+Uptime:
+ 18:10:01 up 5 days,  4:31,  1 user,  load average: 0.41, 0.68, 0.62
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3902        1001         905        4119        3909
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s): 31.0 us,  2.4 sy,  0.0 ni, 66.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:15:01 PM GMT 2025 ------
+Uptime:
+ 18:15:01 up 5 days,  4:36,  1 user,  load average: 0.58, 0.61, 0.61
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3902        1001         913        4127        3909
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  8.5 us,  2.1 sy,  0.0 ni, 89.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:20:01 PM GMT 2025 ------
+Uptime:
+ 18:20:01 up 5 days,  4:41,  1 user,  load average: 0.65, 0.57, 0.58
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3936         965         894        4109        3875
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:25:01 PM GMT 2025 ------
+Uptime:
+ 18:25:01 up 5 days,  4:46,  1 user,  load average: 0.33, 0.40, 0.50
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4096         796         912        4137        3715
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.0 us,  4.0 sy,  0.0 ni, 94.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:30:01 PM GMT 2025 ------
+Uptime:
+ 18:30:01 up 5 days,  4:51,  1 user,  load average: 0.30, 0.40, 0.46
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4165         422         876        4469        3646
+Swap:           4095          58        4037
+CPU Usage:
+%Cpu(s):  2.2 us,  4.3 sy,  0.0 ni, 93.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:35:01 PM GMT 2025 ------
+Uptime:
+ 18:35:01 up 5 days,  4:56,  1 user,  load average: 0.54, 0.43, 0.45
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4264         393         871        4322        3547
+Swap:           4095          64        4031
+CPU Usage:
+%Cpu(s):  4.3 us,  2.2 sy,  0.0 ni, 93.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:40:01 PM GMT 2025 ------
+Uptime:
+ 18:40:01 up 5 days,  5:01,  1 user,  load average: 0.09, 0.33, 0.41
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4312         339         861        4318        3499
+Swap:           4095          64        4031
+CPU Usage:
+%Cpu(s):  2.3 us,  0.0 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:45:01 PM GMT 2025 ------
+Uptime:
+ 18:45:01 up 5 days,  5:06,  1 user,  load average: 0.31, 0.35, 0.40
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4437         320         874        4225        3374
+Swap:           4095          66        4029
+CPU Usage:
+%Cpu(s): 13.6 us,  4.5 sy,  0.0 ni, 81.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:50:01 PM GMT 2025 ------
+Uptime:
+ 18:50:01 up 5 days,  5:11,  1 user,  load average: 0.39, 0.54, 0.48
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4274         675         866        4105        3537
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.0 us,  2.0 sy,  0.0 ni, 93.9 id,  2.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 06:55:01 PM GMT 2025 ------
+Uptime:
+ 18:55:01 up 5 days,  5:16,  1 user,  load average: 1.11, 0.68, 0.53
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4326         621         867        4108        3485
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  8.2 us,  6.1 sy,  0.0 ni, 85.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:00:01 PM GMT 2025 ------
+Uptime:
+ 19:00:01 up 5 days,  5:21,  1 user,  load average: 0.95, 0.64, 0.54
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4521         416         983        4235        3290
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  6.8 us,  4.5 sy,  0.0 ni, 88.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:05:01 PM GMT 2025 ------
+Uptime:
+ 19:05:01 up 5 days,  5:26,  1 user,  load average: 0.14, 0.36, 0.45
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4374         559         934        4190        3437
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.2 us,  2.2 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:10:32 PM GMT 2025 ------
+Uptime:
+ 19:10:32 up 5 days,  5:31,  1 user,  load average: 1.01, 0.52, 0.48
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4507         415         965        4230        3303
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s): 12.5 us,  6.2 sy,  0.0 ni, 81.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:15:01 PM GMT 2025 ------
+Uptime:
+ 19:15:01 up 5 days,  5:36,  1 user,  load average: 0.93, 0.70, 0.57
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4179         737         895        4167        3632
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s): 15.2 us,  8.7 sy,  0.0 ni, 76.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:20:01 PM GMT 2025 ------
+Uptime:
+ 19:20:01 up 5 days,  5:41,  1 user,  load average: 0.56, 0.67, 0.59
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4341         563         894        4179        3470
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s):  0.0 us,  2.4 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:25:01 PM GMT 2025 ------
+Uptime:
+ 19:25:01 up 5 days,  5:46,  1 user,  load average: 0.94, 0.80, 0.66
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4181         698         902        4211        3629
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s):  4.9 us,  2.4 sy,  0.0 ni, 92.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:30:01 PM GMT 2025 ------
+Uptime:
+ 19:30:01 up 5 days,  5:51,  1 user,  load average: 1.40, 0.98, 0.77
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4475         429        1155        4467        3335
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s):  9.1 us,  4.5 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:35:01 PM GMT 2025 ------
+Uptime:
+ 19:35:01 up 5 days,  5:56,  1 user,  load average: 1.50, 1.18, 0.90
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4470         432        1116        4430        3341
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s): 18.6 us,  4.7 sy,  0.0 ni, 76.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:40:01 PM GMT 2025 ------
+Uptime:
+ 19:40:01 up 5 days,  6:01,  1 user,  load average: 0.95, 1.01, 0.91
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4533         327        1109        4427        3278
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s):  7.5 us,  2.5 sy,  0.0 ni, 85.0 id,  5.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:45:01 PM GMT 2025 ------
+Uptime:
+ 19:45:01 up 5 days,  6:06,  1 user,  load average: 0.30, 0.87, 0.91
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4091         770         917        4234        3719
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:50:01 PM GMT 2025 ------
+Uptime:
+ 19:50:01 up 5 days,  6:11,  1 user,  load average: 1.93, 1.52, 1.16
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4377         460        1136        4457        3434
+Swap:           4095          74        4021
+CPU Usage:
+%Cpu(s): 28.9 us, 11.1 sy,  0.0 ni, 60.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 07:55:01 PM GMT 2025 ------
+Uptime:
+ 19:55:01 up 5 days,  6:16,  1 user,  load average: 0.97, 1.40, 1.23
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4369         554        1138        4323        3442
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  4.4 us,  4.4 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:00:01 PM GMT 2025 ------
+Uptime:
+ 20:00:01 up 5 days,  6:21,  1 user,  load average: 1.24, 1.23, 1.19
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2890        1981         779        4017        4921
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 68.2 us, 22.7 sy,  0.0 ni,  9.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:05:01 PM GMT 2025 ------
+Uptime:
+ 20:05:01 up 5 days,  6:26,  1 user,  load average: 0.89, 1.08, 1.14
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3411        1411         779        4066        4400
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  4.4 us,  4.4 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:10:01 PM GMT 2025 ------
+Uptime:
+ 20:10:01 up 5 days,  6:31,  1 user,  load average: 0.19, 0.47, 0.85
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3410        1409         774        4063        4401
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.2 us,  2.2 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:15:01 PM GMT 2025 ------
+Uptime:
+ 20:15:01 up 5 days,  6:36,  1 user,  load average: 1.00, 0.58, 0.77
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3519        1296         733        4025        4291
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  4.7 us,  4.7 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:20:01 PM GMT 2025 ------
+Uptime:
+ 20:20:01 up 5 days,  6:41,  1 user,  load average: 1.26, 0.97, 0.88
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3587        1210         825        4135        4223
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:25:01 PM GMT 2025 ------
+Uptime:
+ 20:25:01 up 5 days,  6:46,  1 user,  load average: 0.33, 0.63, 0.76
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3626        1170         844        4157        4185
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 12.5 us,  4.2 sy,  0.0 ni, 83.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:30:01 PM GMT 2025 ------
+Uptime:
+ 20:30:02 up 5 days,  6:51,  1 user,  load average: 0.93, 0.90, 0.84
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3663        1108         829        4167        4148
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 27.3 us,  9.1 sy,  0.0 ni, 63.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:35:01 PM GMT 2025 ------
+Uptime:
+ 20:35:01 up 5 days,  6:56,  1 user,  load average: 0.12, 0.58, 0.74
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3620        1142         823        4169        4191
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  6.8 us,  6.8 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:40:01 PM GMT 2025 ------
+Uptime:
+ 20:40:01 up 5 days,  7:01,  1 user,  load average: 0.07, 0.23, 0.53
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3655        1105         828        4177        4156
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:45:01 PM GMT 2025 ------
+Uptime:
+ 20:45:01 up 5 days,  7:06,  1 user,  load average: 0.01, 0.09, 0.38
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3567        1195         810        4156        4244
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 08:50:01 PM GMT 2025 ------
+Uptime:
+ 20:50:01 up 5 days,  7:11,  1 user,  load average: 0.04, 0.10, 0.30
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3585        1174         810        4159        4226
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.2 us,  2.2 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 09:45:54 PM GMT 2025 ------
+Uptime:
+ 21:45:54 up 5 days,  8:07,  1 user,  load average: 0.39, 0.13, 0.27
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3726        1031         830        4182        4085
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 29.5 us,  4.5 sy,  0.0 ni, 61.4 id,  2.3 wa,  0.0 hi,  2.3 si,  0.0 st 
+
+------ Mon Aug  4 09:50:01 PM GMT 2025 ------
+Uptime:
+ 21:50:01 up 5 days,  8:11,  1 user,  load average: 0.03, 0.14, 0.24
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3595        1157         831        4187        4215
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 09:55:01 PM GMT 2025 ------
+Uptime:
+ 21:55:01 up 5 days,  8:16,  1 user,  load average: 0.06, 0.12, 0.20
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3574        1177         811        4167        4236
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:00:01 PM GMT 2025 ------
+Uptime:
+ 22:00:01 up 5 days,  8:21,  1 user,  load average: 0.23, 0.26, 0.23
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3636        1115         855        4213        4175
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  6.8 us,  2.3 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:05:01 PM GMT 2025 ------
+Uptime:
+ 22:05:01 up 5 days,  8:26,  1 user,  load average: 0.55, 0.37, 0.27
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3705        1043         827        4187        4106
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 13.0 us,  2.2 sy,  0.0 ni, 84.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:10:01 PM GMT 2025 ------
+Uptime:
+ 22:10:01 up 5 days,  8:31,  1 user,  load average: 0.81, 0.49, 0.33
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3568        1178         794        4156        4243
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 22.2 us,  4.4 sy,  0.0 ni, 73.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:15:01 PM GMT 2025 ------
+Uptime:
+ 22:15:01 up 5 days,  8:36,  1 user,  load average: 2.10, 1.25, 0.69
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3650        1072         802        4188        4161
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 23.3 us,  7.0 sy,  0.0 ni, 69.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:20:01 PM GMT 2025 ------
+Uptime:
+ 22:20:01 up 5 days,  8:41,  1 user,  load average: 1.06, 1.02, 0.75
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3697        1016         851        4246        4114
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.2 us,  2.2 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:25:01 PM GMT 2025 ------
+Uptime:
+ 22:25:01 up 5 days,  8:46,  1 user,  load average: 0.25, 0.63, 0.66
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        3694        1016         829        4228        4117
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  2.1 us,  2.1 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:30:01 PM GMT 2025 ------
+Uptime:
+ 22:30:01 up 5 days,  8:51,  1 user,  load average: 1.61, 0.96, 0.76
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4126         564         855        4273        3685
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  8.9 us,  4.4 sy,  0.0 ni, 86.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:35:01 PM GMT 2025 ------
+Uptime:
+ 22:35:01 up 5 days,  8:56,  1 user,  load average: 0.94, 0.89, 0.78
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4112         581         864        4284        3699
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s): 51.2 us, 14.0 sy,  0.0 ni, 34.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:40:01 PM GMT 2025 ------
+Uptime:
+ 22:40:01 up 5 days,  9:01,  1 user,  load average: 1.80, 1.18, 0.90
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4361         319         943        4379        3450
+Swap:           4095          75        4020
+CPU Usage:
+%Cpu(s):  9.3 us,  2.3 sy,  0.0 ni, 88.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:45:01 PM GMT 2025 ------
+Uptime:
+ 22:45:01 up 5 days,  9:06,  1 user,  load average: 1.53, 1.31, 1.02
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4672         252         910        4094        3139
+Swap:           4095          79        4016
+CPU Usage:
+%Cpu(s): 46.7 us, 11.1 sy,  0.0 ni, 42.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:50:01 PM GMT 2025 ------
+Uptime:
+ 22:50:01 up 5 days,  9:11,  1 user,  load average: 0.76, 1.01, 0.97
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4564         706         840        3780        3247
+Swap:           4095          84        4011
+CPU Usage:
+%Cpu(s): 25.6 us,  9.3 sy,  0.0 ni, 65.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 10:55:01 PM GMT 2025 ------
+Uptime:
+ 22:55:01 up 5 days,  9:16,  1 user,  load average: 0.43, 0.57, 0.79
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4542         726         890        3831        3268
+Swap:           4095          84        4011
+CPU Usage:
+%Cpu(s):  4.7 us,  2.3 sy,  0.0 ni, 90.7 id,  2.3 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:00:01 PM GMT 2025 ------
+Uptime:
+ 23:00:01 up 5 days,  9:21,  1 user,  load average: 0.98, 0.77, 0.80
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4821         477        1080        3891        2989
+Swap:           4095          87        4008
+CPU Usage:
+%Cpu(s): 19.5 us,  7.3 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:05:01 PM GMT 2025 ------
+Uptime:
+ 23:05:01 up 5 days,  9:26,  1 user,  load average: 1.28, 1.15, 0.96
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4809         363        1152        4089        3002
+Swap:           4095          87        4008
+CPU Usage:
+%Cpu(s): 23.8 us,  4.8 sy,  0.0 ni, 71.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:10:01 PM GMT 2025 ------
+Uptime:
+ 23:10:01 up 5 days,  9:31,  1 user,  load average: 1.10, 1.25, 1.06
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4960         345        1230        4033        2850
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s): 44.4 us,  8.9 sy,  0.0 ni, 44.4 id,  2.2 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:15:01 PM GMT 2025 ------
+Uptime:
+ 23:15:01 up 5 days,  9:36,  1 user,  load average: 0.22, 0.57, 0.81
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4869         435        1149        3953        2941
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s): 14.3 us,  9.5 sy,  0.0 ni, 76.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:20:01 PM GMT 2025 ------
+Uptime:
+ 23:20:01 up 5 days,  9:41,  1 user,  load average: 0.43, 0.44, 0.68
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4976         281        1146        3997        2835
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s):  6.7 us,  2.2 sy,  0.0 ni, 91.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:25:01 PM GMT 2025 ------
+Uptime:
+ 23:25:01 up 5 days,  9:46,  1 user,  load average: 0.16, 0.28, 0.54
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4808         451        1139        3989        3003
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s):  7.0 us,  2.3 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Mon Aug  4 11:30:01 PM GMT 2025 ------
+Uptime:
+ 23:30:01 up 5 days,  9:51,  1 user,  load average: 0.33, 0.32, 0.48
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4787         470        1142        3994        3024
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s):  2.3 us,  2.3 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 06:30:02 AM GMT 2025 ------
+Uptime:
+ 06:30:02 up 5 days, 16:51,  1 user,  load average: 0.34, 0.31, 0.46
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4857         392        1143        4003        2954
+Swap:           4095          90        4005
+CPU Usage:
+%Cpu(s):  2.3 us,  2.3 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 06:35:01 AM GMT 2025 ------
+Uptime:
+ 06:35:01 up 5 days, 16:56,  1 user,  load average: 0.08, 0.30, 0.42
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4304        1089        1172        3887        3507
+Swap:           4095          92        4003
+CPU Usage:
+%Cpu(s):  2.3 us,  2.3 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 08:25:36 AM GMT 2025 ------
+Uptime:
+ 08:25:36 up 5 days, 18:47,  1 user,  load average: 0.68, 0.38, 0.41
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        4281        1113        1187        3901        3530
+Swap:           4095          92        4003
+CPU Usage:
+%Cpu(s):  2.2 us,  4.4 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 08:40:02 AM GMT 2025 ------
+Uptime:
+ 08:40:02 up 3 min,  1 user,  load average: 0.79, 0.71, 0.32
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2018        4427         413        2028        5793
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s): 11.1 us,  4.4 sy,  0.0 ni, 84.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 08:45:01 AM GMT 2025 ------
+Uptime:
+ 08:45:01 up 8 min,  1 user,  load average: 0.61, 0.80, 0.48
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2150        4204         437        2145        5661
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s): 16.7 us,  4.8 sy,  0.0 ni, 78.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 08:50:01 AM GMT 2025 ------
+Uptime:
+ 08:50:01 up 13 min,  1 user,  load average: 0.75, 0.82, 0.58
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2231        4086         458        2204        5579
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  6.7 us,  4.4 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 08:55:01 AM GMT 2025 ------
+Uptime:
+ 08:55:01 up 18 min,  1 user,  load average: 0.63, 0.75, 0.62
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2313        3968         456        2238        5497
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  8.2 us,  4.1 sy,  0.0 ni, 87.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:00:01 AM GMT 2025 ------
+Uptime:
+ 09:00:01 up 23 min,  1 user,  load average: 0.23, 0.41, 0.50
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2370        3895         449        2247        5440
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  2.0 us,  4.1 sy,  0.0 ni, 89.8 id,  2.0 wa,  0.0 hi,  2.0 si,  0.0 st 
+
+------ Tue Aug  5 09:05:01 AM GMT 2025 ------
+Uptime:
+ 09:05:01 up 28 min,  1 user,  load average: 0.26, 0.24, 0.39
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2383        3848         451        2284        5428
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:10:01 AM GMT 2025 ------
+Uptime:
+ 09:10:01 up 33 min,  1 user,  load average: 0.29, 0.41, 0.44
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        1518        4876         273        1942        6293
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  0.0 us,  4.3 sy,  0.0 ni, 95.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:15:01 AM GMT 2025 ------
+Uptime:
+ 09:15:01 up 38 min,  1 user,  load average: 0.76, 0.46, 0.44
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2205        4076         462        2245        5606
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  2.2 us,  4.4 sy,  0.0 ni, 93.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:20:01 AM GMT 2025 ------
+Uptime:
+ 09:20:01 up 43 min,  1 user,  load average: 0.13, 0.46, 0.47
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2441        3819         638        2442        5369
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  2.3 us,  0.0 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:25:01 AM GMT 2025 ------
+Uptime:
+ 09:25:01 up 48 min,  1 user,  load average: 0.17, 0.40, 0.44
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2339        3890         491        2325        5471
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  2.3 us,  0.0 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:30:01 AM GMT 2025 ------
+Uptime:
+ 09:30:01 up 53 min,  1 user,  load average: 0.09, 0.29, 0.39
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2569        3629         547        2414        5241
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  0.0 us,  4.2 sy,  0.0 ni, 95.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:35:01 AM GMT 2025 ------
+Uptime:
+ 09:35:01 up 58 min,  1 user,  load average: 0.31, 0.27, 0.35
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2676        3486         610        2515        5135
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  7.0 us,  4.7 sy,  0.0 ni, 88.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:40:01 AM GMT 2025 ------
+Uptime:
+ 09:40:01 up  1:03,  1 user,  load average: 0.62, 0.69, 0.52
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2915        3106         636        2682        4895
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s):  2.0 us,  4.1 sy,  0.0 ni, 93.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+------ Tue Aug  5 09:45:01 AM GMT 2025 ------
+Uptime:
+ 09:45:01 up  1:08,  1 user,  load average: 0.45, 0.50, 0.47
+Free Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            7811        2885        3134         685        2733        4926
+Swap:           4095           0        4095
+CPU Usage:
+%Cpu(s): 18.6 us,  7.0 sy,  0.0 ni, 74.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
