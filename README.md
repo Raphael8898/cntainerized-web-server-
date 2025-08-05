@@ -1,18 +1,17 @@
 
 # Project Report: Containerized Web Server with Monitoring
  ************************ GROUP 2 *********************
- |   Name                         |  INDEX NUMBER     |
  ----------------------------------------------------------
- |Acheampong Rockson Opoku        |    052441360213    |
- |Emmanuel Quayson                |    052441770002    |
- |Beatrice Frimpong               |    052441360231    |
- |Elijah Danso Amankwah           |    052441360289    |
- |Baligi Simon Yaw                |    052441360215    |
- |Benjamin Dapaah                 |    052441360268    |
- |Jessica Adjei-Poku              |    052441360261    |
- |Tetteh Raphael Tawiah           |    052441360245    |
- |Bandim Isaac                    |    052441360304    |
- |                                |                    |
+ |Acheampong Rockson Opoku        052441360213    ||
+ |Emmanuel Quayson                052441770002    ||
+ |Beatrice Frimpong               052441360231    ||
+ |Elijah Danso Amankwah           052441360289    ||
+ |Baligi Simon Yaw                052441360215    ||
+ |Benjamin Dapaah                 052441360268    ||
+ |Jessica Adjei-Poku              052441360261    ||
+ |Tetteh Raphael Tawiah           052441360245    ||
+ |Bandim Isaac                    052441360304    ||
+ |                                                   |
   
 ###  Project Folder: `~/myproject`  
 ### Tested On: Ubuntu 20.04 VM (or WSL)
